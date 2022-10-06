@@ -1,6 +1,7 @@
 import re
 
 string = "Завтрак будет в 16:00 Футбольный счет 24:30"
+
 def main(string):
 	words = string.split(" ")
 
